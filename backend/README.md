@@ -25,3 +25,6 @@
 
 ## oauth 인증 절차
 ![oauth_sequence](/uploads/a5785721e24df9662cdd48b23e9c7848/oauth_sequence.png)
+
+## json MockData 서버 
+npx json-server ./searchMockData.json --port 8000
